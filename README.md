@@ -1,4 +1,4 @@
 # demo-repo
 Demo Repository
 <br>
-Author - Kasaiah Madhumanchi(learning)
+Author - Kasaiah Madhumanchi(learning git)
